@@ -456,7 +456,7 @@ fn sine_wave_fourier(period: f64, terms: usize) {
     println!("\nCalculating Fourier Series for Sine Wave:");
     println!("Period (T): {}", period);
     println!("Number of terms: {}", terms);
-
+//Subject to change, needs more math
 
     let bn = 1.0;  // for fundamental frequency
 
